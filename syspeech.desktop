@@ -1,0 +1,8 @@
+#!/bin/bash
+[Desktop Entry]
+Name=Transcribe
+Exec=python3 /home/jvadair/Programs/syspeech/transcribe.py
+Icon=microphone
+Type=Application
+StartupNotify=false
+Categories=System;Utilities
